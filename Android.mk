@@ -33,6 +33,7 @@ exynos5_dirs := \
 	libcamera2 \
 	mobicore \
 	libkeymaster \
+	libmemtrack \
 	gralloc \
 	libsecurepath
 
